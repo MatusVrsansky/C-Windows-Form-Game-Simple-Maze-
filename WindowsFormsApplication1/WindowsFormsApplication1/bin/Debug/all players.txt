@@ -1,0 +1,5 @@
+Meno hraca					Datum a cas spustenia hry
+
+
+
+					13.10.2016 16:16:01

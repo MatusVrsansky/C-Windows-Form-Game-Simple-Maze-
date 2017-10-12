@@ -1,0 +1,26 @@
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\panak.png
+C:\Users\Matúš\Desktop\novy_projekt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\lopta.ico
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\lopta.ico
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\panak.png
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matúš\Desktop\icons\mpj - projekt-Vrsansky\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
